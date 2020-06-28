@@ -1,0 +1,13 @@
+﻿  ai_greedy.cpp
+C:\Users\CAU\Desktop\ai_greedy (1)\ai_greedy\ai_greedy\ai_greedy.cpp(38,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\CAU\Desktop\ai_greedy (1)\ai_greedy\ai_greedy\ai_greedy.cpp(58,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\CAU\Desktop\ai_greedy (1)\ai_greedy\ai_greedy\ai_greedy.cpp(108,31): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\CAU\Desktop\ai_greedy (1)\ai_greedy\ai_greedy\ai_greedy.cpp(155,31): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\CAU\Desktop\ai_greedy (1)\ai_greedy\ai_greedy\ai_greedy.cpp(419,16): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\CAU\Desktop\ai_greedy (1)\ai_greedy\ai_greedy\ai_greedy.cpp(643,19): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  0 of 318 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  ai_greedy.vcxproj -> C:\Users\CAU\Desktop\ai_greedy (1)\ai_greedy\Release\ai_greedy.exe

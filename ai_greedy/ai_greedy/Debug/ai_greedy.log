@@ -1,0 +1,9 @@
+﻿  ai_greedy.cpp
+c:\users\준석\documents\visual studio 2015\projects\ai_greedy\ai_greedy\ai_greedy.cpp(37): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\준석\documents\visual studio 2015\projects\ai_greedy\ai_greedy\ai_greedy.cpp(57): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\준석\documents\visual studio 2015\projects\ai_greedy\ai_greedy\ai_greedy.cpp(107): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\준석\documents\visual studio 2015\projects\ai_greedy\ai_greedy\ai_greedy.cpp(154): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\준석\documents\visual studio 2015\projects\ai_greedy\ai_greedy\ai_greedy.cpp(418): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\준석\documents\visual studio 2015\projects\ai_greedy\ai_greedy\ai_greedy.cpp(620): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ai_greedy.vcxproj -> C:\Users\준석\Documents\Visual Studio 2015\Projects\ai_greedy\Debug\ai_greedy.exe
+  ai_greedy.vcxproj -> C:\Users\준석\Documents\Visual Studio 2015\Projects\ai_greedy\Debug\ai_greedy.pdb (Full PDB)

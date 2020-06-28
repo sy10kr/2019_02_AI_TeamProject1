@@ -1,0 +1,19 @@
+﻿  ai_hc.cpp
+C:\Users\CAU\Desktop\ai_greedy (1)\ai_hc\ai_hc\ai_hc.cpp(54,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\CAU\Desktop\ai_greedy (1)\ai_hc\ai_hc\ai_hc.cpp(75,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\CAU\Desktop\ai_greedy (1)\ai_hc\ai_hc\ai_hc.cpp(125,31): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\CAU\Desktop\ai_greedy (1)\ai_hc\ai_hc\ai_hc.cpp(389,18): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\CAU\Desktop\ai_greedy (1)\ai_hc\ai_hc\ai_hc.cpp(399,18): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\CAU\Desktop\ai_greedy (1)\ai_hc\ai_hc\ai_hc.cpp(480,24): warning C4244: '=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\CAU\Desktop\ai_greedy (1)\ai_hc\ai_hc\ai_hc.cpp(484,24): warning C4244: '=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\CAU\Desktop\ai_greedy (1)\ai_hc\ai_hc\ai_hc.cpp(491,9): warning C4244: 'return': '__int64'에서 'double'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\CAU\Desktop\ai_greedy (1)\ai_hc\ai_hc\ai_hc.cpp(782,30): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\CAU\Desktop\ai_greedy (1)\ai_hc\ai_hc\ai_hc.cpp(790,21): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\CAU\Desktop\ai_greedy (1)\ai_hc\ai_hc\ai_hc.cpp(801,21): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\CAU\Desktop\ai_greedy (1)\ai_hc\ai_hc\ai_hc.cpp(664,8): warning C4101: 'res' :참조되지 않은 지역 변수입니다.
+C:\Users\CAU\Desktop\ai_greedy (1)\ai_hc\ai_hc\ai_hc.cpp(780,9): warning C4101: 'tmp_route' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 345 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  ai_hc.vcxproj -> C:\Users\CAU\Desktop\ai_greedy (1)\ai_hc\Release\ai_hc.exe

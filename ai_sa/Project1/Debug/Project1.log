@@ -1,0 +1,34 @@
+﻿  소스.cpp
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(53,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(74,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(121,31): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(171,9): warning C4566: 유니버설 문자 이름 '\uFFFD'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(171,9): warning C4566: 유니버설 문자 이름 '\u07FB'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(171,9): warning C4566: 유니버설 문자 이름 '\u023D'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(259,12): warning C4566: 유니버설 문자 이름 '\uFFFD'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(259,12): warning C4566: 유니버설 문자 이름 '\u00FC'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(276,9): warning C4566: 유니버설 문자 이름 '\uFFFD'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(276,9): warning C4566: 유니버설 문자 이름 '\u01AE'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(337,18): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(347,18): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(408,24): warning C4244: '=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(412,24): warning C4244: '=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(418,9): warning C4566: 유니버설 문자 이름 '\uFFFD'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(419,9): warning C4244: 'return': '__int64'에서 'double'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(500,11): warning C4566: 유니버설 문자 이름 '\uFFFD'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(500,11): warning C4566: 유니버설 문자 이름 '\u02FB'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(500,11): warning C4566: 유니버설 문자 이름 '\u07FA'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(500,11): warning C4566: 유니버설 문자 이름 '\u0534'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(500,11): warning C4566: 유니버설 문자 이름 '\u03F4'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(510,11): warning C4566: 유니버설 문자 이름 '\uFFFD'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(510,11): warning C4566: 유니버설 문자 이름 '\u02FB'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(510,11): warning C4566: 유니버설 문자 이름 '\u07FA'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(510,11): warning C4566: 유니버설 문자 이름 '\u0534'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(510,11): warning C4566: 유니버설 문자 이름 '\u03F4'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(598,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(590,9): warning C4101: 'p' :참조되지 않은 지역 변수입니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(774,30): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(782,21): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(659,8): warning C4101: 'res' :참조되지 않은 지역 변수입니다.
+C:\Users\CAU\Desktop\Project1\Project1\소스.cpp(772,9): warning C4101: 'tmp_route' :참조되지 않은 지역 변수입니다.
+  Project1.vcxproj -> C:\Users\CAU\Desktop\Project1\Debug\Project1.exe
